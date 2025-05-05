@@ -1,5 +1,7 @@
 # Tarea-3-Programacion-de-Computadores
 En el siguiente repositorio se encuentran subidos los contenidos, capturas y códigos correspondientes a la realizacion de la Tarea 3 del curso de Programacion Basica de Computadores
+
+
 Ejercicio 17
 ![Ejercicio 17](https://github.com/user-attachments/assets/027b1186-9bf2-4789-9c78-892d24ea8916)
 Ejercicio 18
